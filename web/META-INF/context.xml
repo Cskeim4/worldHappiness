@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/worldHappiness">
+  <!--<Resource auth="Container" 
+          driverClassName="com.mysql.cj.jdbc.Driver" 
+          logAbandoned="true" 
+          maxActive="100" 
+          maxIdle="30" 
+          maxWait="10000" 
+          name="jdbc/music_jpa" 
+          password="sesame" 
+          removeAbandoned="true" 
+          removeAbandonedTimeout="60" 
+          type="javax.sql.DataSource" 
+          url="jdbc:mysql://localhost:3306/music_jpa" 
+          username="root"/>-->
+  <!--<Realm className="org.apache.catalina.realm.JDBCRealm" 
+         connectionName="root" 
+         connectionPassword="sesame" 
+         connectionURL="jdbc:mysql://localhost:3306/murach" 
+         debug="99" 
+         driverName="com.mysql.cj.jdbc.Driver" 
+         roleNameCol="Rolename" 
+         userCredCol="Password" 
+         userNameCol="Username" 
+         userRoleTable="UserRole" 
+         userTable="UserPass"/>-->
+</Context>
